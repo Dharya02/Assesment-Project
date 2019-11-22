@@ -26,6 +26,6 @@ Project integrating api's
   </ol>
 <p>
 
-Check it live here https://dharya02.github.io/assessment-project/
+Check it live here https://dharya02.github.io/assesment-project/
 
 
